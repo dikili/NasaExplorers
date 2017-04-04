@@ -23,7 +23,13 @@ namespace MarsRoverProblem
             var rover = Rover.Create(area, location);
             rover.Process(command);
 
+
             Console.WriteLine(rover);
+
+
+            Console.WriteLine("Press any key to exit");
+            Console.ReadLine();
+
         }
     }
 }

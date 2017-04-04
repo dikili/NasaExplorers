@@ -1,0 +1,17 @@
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\MarsRover.Tests.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\MarsRover.Tests.pdb
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\Ensure.That.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\MarsRover.Domain.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\nunit.framework.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\EnsureThat.dll
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\MarsRover.Domain.pdb
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.pdb
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.xml
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Source\NasaExplorers\MarsRover.Tests\bin\Debug\nunit.framework.xml
+C:\Source\NasaExplorers\MarsRover.Tests\obj\Debug\MarsRover.Tests.csprojResolveAssemblyReference.cache
+C:\Source\NasaExplorers\MarsRover.Tests\obj\Debug\MarsRover.Tests.dll
+C:\Source\NasaExplorers\MarsRover.Tests\obj\Debug\MarsRover.Tests.pdb

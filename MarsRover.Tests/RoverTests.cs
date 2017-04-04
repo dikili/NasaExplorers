@@ -2,6 +2,7 @@
 using FluentAssertions;
 using MarsRover.Domain;
 using NUnit.Framework;
+using System.Xml.Linq;
 
 namespace MarsRover.Tests
 {

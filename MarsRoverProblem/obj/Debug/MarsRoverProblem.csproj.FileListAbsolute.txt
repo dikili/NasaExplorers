@@ -1,0 +1,15 @@
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe.config
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\MarsRoverProblem.pdb
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\EnsureThat.dll
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.Core.dll
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.dll
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\MarsRover.Domain.dll
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\MarsRover.Domain.pdb
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.pdb
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.xml
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.Core.pdb
+C:\Source\NasaExplorers\MarsRoverProblem\bin\Debug\FluentAssertions.Core.xml
+C:\Source\NasaExplorers\MarsRoverProblem\obj\Debug\MarsRoverProblem.csprojResolveAssemblyReference.cache
+C:\Source\NasaExplorers\MarsRoverProblem\obj\Debug\MarsRoverProblem.exe
+C:\Source\NasaExplorers\MarsRoverProblem\obj\Debug\MarsRoverProblem.pdb

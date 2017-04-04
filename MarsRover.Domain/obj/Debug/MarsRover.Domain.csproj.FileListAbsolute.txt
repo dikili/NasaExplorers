@@ -1,0 +1,11 @@
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\MarsRover.Domain.dll
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\MarsRover.Domain.pdb
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\EnsureThat.dll
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.Core.dll
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.dll
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.pdb
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.xml
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.Core.pdb
+C:\Source\NasaExplorers\MarsRover.Domain\bin\Debug\FluentAssertions.Core.xml
+C:\Source\NasaExplorers\MarsRover.Domain\obj\Debug\MarsRover.Domain.dll
+C:\Source\NasaExplorers\MarsRover.Domain\obj\Debug\MarsRover.Domain.pdb
